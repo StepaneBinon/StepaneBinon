@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 Kururugi-ESC, as open-hardware and open-source ESC for BLDC drone motors, which can be used with 6 step control or FOC.
-
 I have finished the PCB design which rely on 6 layers and should be able to burn some Watts!
-
 I am currently working on the custom C++ bare-metal software, I am considering writing my own LL and HAL implementation, relying only on CMSIS-Core of ARM and CMSIS-Device-G4 of STM.
+Go take a look, it cool: https://github.com/Bare-Metal-Foundry/Kururugi-ESC-Foundry
 
-👯 Bare-Metal Foundry
+## 👯 Bare-Metal Foundry ...
 
-With a friend, we created the Bare-Metal Foundry, and our goal is to develop, from scratch, a autonomous racing drone. You can check it here: https://github.com/orgs/Bare-Metal-Foundry/repositories
+With a friend, we created the Bare-Metal Foundry, and our goal is to develop, from scratch, a autonomous racing drone. You can check it here: https://github.com/orgs/Bare-Metal-Foundry/repositories. For now, only one other project is being tacle -> a open-hadware FCU!
 
 <!--
 **StepaneBinon/StepaneBinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
